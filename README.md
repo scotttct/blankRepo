@@ -1,2 +1,2 @@
 # blankRepo
-Just to test
+Was finally able to clone a repo...YEH BUddy
